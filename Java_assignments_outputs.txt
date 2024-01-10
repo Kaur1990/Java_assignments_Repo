@@ -1,0 +1,40 @@
+Cmd output: using 3rd variable
+
+C:\Users\user\Desktop\Java_testing>cd Java_assignments_Repo
+
+C:\Users\user\Desktop\Java_testing\Java_assignments_Repo>javac Test.java
+
+C:\Users\user\Desktop\Java_testing\Java_assignments_Repo>Test java
+'Test' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\user\Desktop\Java_testing\Java_assignments_Repo>java Test
+10
+7
+7
+10
+
+which notation is correct?
+int i = 10; 
+int int = 20; 
+int goto = 30; 
+int default = 40; 
+int class = 50; 
+int j = 70;
+
+Answer: int i=10, int j=70
+
+Cmd: without using third variable:
+
+C:\Users\user\Desktop\Java_testing\Java_assignments_Repo>javac Test1.java
+
+C:\Users\user\Desktop\Java_testing\Java_assignments_Repo>java Test1
+10
+7
+7
+10
+
+
+
+
+
